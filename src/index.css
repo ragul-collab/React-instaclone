@@ -1,0 +1,33 @@
+.sidebar {
+    width: 20%;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+}
+.suggestions {
+    width: 30%;
+}
+.logo-text{
+    width: 120px;
+}
+.bi{
+    margin-right: 5px;
+}
+.stories{
+    height: 60px;
+}
+.dp{
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+.image{
+    width:150%
+}
+.profilename{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 7px;
+}
